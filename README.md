@@ -89,7 +89,7 @@ If you use RadioDINO in your research, please cite the following:
 ## 📁 Repository Content
 
 ```markdown
-📁 repository/
+📁 examples/
 ├── embedding_classification.ipynb         # kNN classification using embeddings
 ├── embedding_visualization.ipynb          # PCA and UMAP visualizations of feature space
 ├── feature_extraction_dataset.ipynb       # Batch feature extraction from datasets
